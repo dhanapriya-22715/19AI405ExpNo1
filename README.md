@@ -95,7 +95,7 @@ if __name__ == "__main__":
 ```
 ## OUTPUT:
 
-<img width="592" height="231" alt="image" src="https://github.com/user-attachments/assets/53240305-5ec0-44ec-8a27-17cb0d639fb1" />
+<img width="642" height="472" alt="image" src="https://github.com/user-attachments/assets/eca8215f-58e7-4d41-a65a-58f8e1ec8fb1" />
 
 ## RESULT:
 Thus the Developing AI Agent with Peas Description was implemented using python programming.
